@@ -1,0 +1,9 @@
+@media (max-width: 425px) {
+    main {
+        grid-template-columns: 1fr;
+        grid-template-areas: "header"
+                            "modelo"
+                            "formulario";
+
+    }
+}

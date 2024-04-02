@@ -1,0 +1,9 @@
+:root {
+  --escuro-acizentado-vermelho: hsl(0, 6%, 24%);
+  --desaturado-vermelho: hsl(0, 36%, 70%);
+  --macio-vermelho: hsl(0, 93%, 68%);
+  --gradiente-btn:  hsl(0, 80%, 86%),  hsl(0, 74%, 74%);
+  --gradiente-btn-click: hsl(0, 15%, 95%),  hsl(0, 80%, 86%);
+  --aceito: rgb(10, 187, 10);
+  --fonte-padrao: 16px;   
+}
